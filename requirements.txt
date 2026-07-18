@@ -1,0 +1,7 @@
+#app
+fastapi
+uvicorn
+
+# for database
+
+## pip install sqlalchemy "passlib[bcrypt]" "python-jose[cryptography]" python-multipart
